@@ -15,3 +15,7 @@ npm run dev
 Seeding Dummy Data
 node seed.js
 node seedUser.js 
+
+Login with
+Username : admin
+Password : 123456 
