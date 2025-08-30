@@ -13,4 +13,5 @@ npm run dev
 <!-- Starts the server on http://localhost:5000. -->
 
 Seeding Dummy Data
-node seed.js 
+node seed.js
+node seedUser.js 
